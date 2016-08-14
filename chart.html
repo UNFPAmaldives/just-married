@@ -66,7 +66,7 @@ var median_ages = { "values_first": 22.5, "values_all": 22.5 };
 
 var margin = {top: 20, right: 20, bottom: 30, left: 0},
     width = 1000 - margin.left - margin.right,
-	height = 400 - margin.top - margin.bottom;
+	height = 600 - margin.top - margin.bottom;
 
 var bisectAge = d3.bisector(function(d) { return d.age; }).left;	
 var percent = d3.format('%');
