@@ -177,7 +177,7 @@ body {
 }
 #nav .dropdown-menu li a {
     line-height: 36px;
-    width: 127px;
+    width: 160px;
 }
 #nav .dropdown-menu li a:hover {
     background-color: #0091ca;
@@ -248,7 +248,7 @@ body {
     position: absolute
 }
 .postoni {
-    font-family: 'PostoniDisplay', Georgia, serif
+    font-family: 'PostoniStandardBold', Georgia, serif
 }
 .franklin {
     font-family: 'FranklinITCProLight', Helvetica, Arial, sans-serif
